@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+
+<menu xmlns:android = "http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id = "@+id/menuListContextMove"
+        android:title = "@string/menu_list_context_move"/>
+
+    <item
+        android:id = "@+id/menuListContextCancel"
+        android:title = "@string/menu_list_context_cancel"/>
+
+</menu>

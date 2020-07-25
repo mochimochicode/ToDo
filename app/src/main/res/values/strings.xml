@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDo管理アプリ</string>
+
+    <!--オプションメニュー用-->
+    <string name="OptionTaskClear">タスク完了クリア</string>
+    <string name="OptionCancel">キャンセル</string>
+
+    <!--コンテキストメニュー用-->
+    <string name = "menu_list_context_move">タスク完了</string>
+    <string name = "menu_list_context_cancel">キャンセル</string>
+    <string name = "menu_list_context_header">操作を選んでください</string>
+</resources>
